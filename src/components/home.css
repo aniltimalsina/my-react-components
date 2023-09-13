@@ -1,0 +1,23 @@
+.container {
+  height: 100vh;
+  background-image: linear-gradient(
+    to right,
+    rgb(238, 186, 231),
+    rgb(205, 205, 182)
+  );
+}
+
+.contentBox {
+  height: 500px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto 70px;
+  background-image: linear-gradient(
+    to bottom right,
+    rgb(238, 234, 240),
+    rgb(191, 170, 202)
+  );
+}
